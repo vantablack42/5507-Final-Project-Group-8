@@ -4,8 +4,10 @@
 1.1Web Scraping: Contains scripts for scraping data from Douban.
 Douban group_24 hours + 16 groups.py: Python script for scraping data from Douban groups.
 Douban_data_cleaned_file.csv: CSV file containing cleaned data from Douban.
+
 1.2Image recognition: Contains scripts for image recognition tasks.
 OCR Image recognition.ipynb: Jupyter notebook for OCR image recognition.
+
 1.3Data Analysis: Contains scripts and data files for analyzing fraud trends.
 TF + LDA+word cloud.ipynb: Jupyter notebook for TF-LDA analysis and word cloud generation.
 TF-IDF Fraud Trend Analysis.ipynb: Jupyter notebook for TF-IDF analysis of fraud trends.
